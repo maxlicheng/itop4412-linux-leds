@@ -39,6 +39,14 @@ insmod leds.ko
 ### 2.qt应用程序效果图
 ![Image text](https://raw.githubusercontent.com/maxlicheng/itop4412-linux-leds/master/view/%E5%8A%9F%E8%83%BD%E5%9B%BE.jpg)
 
+## 视频教程
+- 1.[《嵌入式Linux QT应用程序功能演示》](https://www.bilibili.com/video/av60787366/)
+- 2.[《嵌入式Linux QT应用程序交叉编译方法》](https://www.bilibili.com/video/av60787366/?p=2)
+
+## 博客文章
+- 1.[《QT5开发环境在ubuntu下的安装》](https://www.maxlicheng.com/embedded/513.html)
+- 2.[《交叉编译QT到嵌入式arm Linux系统》](https://www.maxlicheng.com/embedded/523.html)
+
 # 其他
 ## 嵌入式Linux字符设备驱动开发流程——以LED为例
 - 1.[《设备模块加载及卸载》](https://www.maxlicheng.com/embedded/561.html "Title")
